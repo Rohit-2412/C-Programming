@@ -2,3 +2,4 @@
 .cph
 *.bin
 **/tempCodeRunnerFile.c
+.DS_Store
